@@ -1,11 +1,16 @@
 _repo: Chats-on-Violoncellos_57130
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57130-h/images/cover.jpg
 creator:
   author:
     agent_name: Racster, Olga
     gutenberg_agent_id: '49208'
     url: http://www.gutenberg.org/2009/agents/49208
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57130#Chats-on-Violoncellos
 gutenberg_issued: '2018-05-10'
 gutenberg_type: Text
 identifiers:
